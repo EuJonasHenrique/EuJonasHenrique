@@ -1,4 +1,4 @@
-- 👋 Oi, Eu sou @EuJonasHenrique
+- 👋 Oi, Eu sou [@EuJonasHenrique](https://github.com/EuJonasHenrique)
 - 👀 Tenho interesse em me desenvolver pessoalmente, profissionalmente e me tornar um ótimo DEV
 - 🌱 Atualmente estou aprendendo programação na @DIO
 - 📫 Como chegar até mim?
